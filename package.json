@@ -3,11 +3,11 @@
   "version": "0.10.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "Alejandro Mendoza <ren0xi@aol.com>",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://github.com/Ren0X1/discordGoogleAPI-BOT",
+  "repository": "github:Ren0X1/discordGoogleAPI-BOT",
+  "bugs": "https://github.com/Ren0X1/discordGoogleAPI-BOT/issues",
   "engines": {
     "node": ">=14.0.0"
   },
